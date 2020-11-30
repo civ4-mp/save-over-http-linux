@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#
+# This script is based on Stavros Korokithakis FUSE filesystem example:
+# https://github.com/skorokithakis/python-fuse-sample
 
 from __future__ import with_statement
 
